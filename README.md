@@ -37,7 +37,7 @@
 
 ## Summary
 
-I'm a Full Stack Flutter Developer with hands-on experience in the full lifecycle of Native Android App development process, as well as Cross-platform application development, including requirements gathering, designing, coding, testing, debugging, & maintenance.
+A Full Stack App Developer with hands-on experience in the full lifecycle of Native Android App development process with Java and Kotlin, as well as Cross-platform application development using Flutter, including requirements gathering, designing, coding, testing, debugging, & maintenance.
 
 ## ☕ Connect with me!
 
