@@ -13,7 +13,7 @@
  
 ## Flutter Stack:
 
-- State Management: GetX, Provider, Riverpod & BLoC.
+- State Management: BLoC, GetX, Provider & Riverpod.
 - Backend: Firebase & AppWrite.
 - Designing: Adobe XD, Figma & Mockitt.
 - Testing: Unit Testing.
