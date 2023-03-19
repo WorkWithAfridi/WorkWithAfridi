@@ -45,7 +45,7 @@ A Full Stack App Developer with hands-on experience in the full lifecycle of Nat
 
 ## 📧 For Business Inquiries 
 
-✅  ► Khondakarafridi35@gmail.com
+✅  ► afridi.khondakar@gmail.com
 
 [website]: https://sites.google.com/view/workwithafridi
 [twitter]: https://twitter.com/KyotoBytes
