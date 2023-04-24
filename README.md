@@ -1,15 +1,15 @@
 ## Hello World, I'm Khondakar Afridi - aka KYOTO. 👋
 
-- 🔭 I’m currently working as a Software Engineer at Tikweb.
+- 🔭 I’m currently working as a Software Engineer | App Developer at Tikweb.
 - 🌱 I’m currently learning React Native.
 - 🤔 I’m also looking forward to collaborating on Open Source projects.
-- 💬 Ask me about Computers, Crypto, Blockchain, Games, Consoles and/or Programming stuff, aka typical Tech-nerd.
+- 💬 Ask me about Computers, Games, Consoles and/or Programming stuff, aka typical Tech-nerd.
 - 🔥 Youtube: [Kyoto](https://www.youtube.com/KyotoCodes)
 - 📫 Portfolio: [WorkWithAfridi](https://sites.google.com/view/workwithafridi)
 - 🔥 CV/ Resume: [CV/ Resume - Khondakar Afridi](https://drive.google.com/file/d/1VxWqGyDOgvX3SMTsyQFXnlFFtrJqJqnr/view?usp=share_link)
 - 😄 Pronouns: Him/He
+- 🔥 Nationality: Bangladeshi &&Pround
 - ⚡ Fun fact: I speak English, Bangla, Hindhi, Canadian French!
-- 🔥 Bangladeshi&Pround
  
 ## Flutter Stack:
 
