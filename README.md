@@ -35,9 +35,9 @@
 [<img align="left" alt="Firebase" width="26px" src="https://clipground.com/images/bitbucket-logo-1.jpg" />][BitBucket]
 <br />
 
-## Summary
+## About me
 
-A Full Stack App Developer with hands-on experience in the full lifecycle of Native Android App development process with Java and Kotlin, as well as Cross-platform application development using Flutter, including requirements gathering, designing, coding, testing, debugging, & maintenance.
+Experienced software engineer specializing in app development. Skilled in creating high-performance, scalable, & user-friendly applications for various industries. Strong technical background, self-motivated, & a team player. 
 
 ## ☕ Connect with me!
 
