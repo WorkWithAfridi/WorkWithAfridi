@@ -68,3 +68,6 @@ A Full Stack App Developer with hands-on experience in the full lifecycle of Nat
 [csharp]: https://en.wikipedia.org/wiki/C_Sharp_(programming_language)
 [Figma]: https://www.figma.com/files/recent?fuid=1015973143713454522
 [AppWrite]: https://appwrite.io/
+[Jira]: https://www.atlassian.com/software/jira
+[Atlassian]: https://www.atlassian.com/
+[BitBucket]: https://bitbucket.org/
