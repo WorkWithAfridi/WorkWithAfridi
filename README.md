@@ -25,14 +25,14 @@
 [<img align="left" alt="Android Studio" width="26px" src="https://cdn-icons-png.flaticon.com/512/5969/5969010.png" />][androidstudio]
 [<img align="left" alt="VS Code" width="26px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" />][vscode]
 [<img align="left" alt="Figma" width="26px" src="https://static.viget.com/_284x284_crop_center-center_none/icon-figma-2-01.png?mtime=20170814151542" />][Figma]
+[<img align="left" alt="Firebase" width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />][firebase]
 [<img align="left" alt="AppWrite" width="26px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--47uK5RB_--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/2225/eb541cf9-84f4-4101-987c-c219cd4b34fc.png" />][AppWrite]
 [<img align="left" alt="Java" width="26px" src="https://mpng.subpng.com/20180404/ebw/kisspng-java-programming-computer-programming-programming-coffee-jar-5ac598db779939.2171835915228991634899.jpg" />][java]
 [<img align="left" alt="Kotlin" width="26px" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" />][kotlin]
-[<img align="left" alt="Firebase" width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />][firebase]
 [<img align="left" alt="JS" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" />][javascript]
-[<img align="left" alt="Python" width="26px" src="https://cdn-icons-png.flaticon.com/512/919/919852.png" />][python]
-[<img align="left" alt="C++" width="26px" src="https://cdn-icons-png.flaticon.com/512/919/919841.png" />][cplusplus]
-[<img align="left" alt="C#" width="26px" src="https://cdn-icons-png.flaticon.com/512/381/381704.png" />][csharp]
+[<img align="left" alt="Firebase" width="26px" src="https://www.kindpng.com/picc/m/278-2785101_jira-logo-png-transparent-png.png" />][Jira]
+[<img align="left" alt="Firebase" width="26px" src="https://www.gleveconsult.com/assets/images/logo-atlassian.png" />][Atlassian]
+[<img align="left" alt="Firebase" width="26px" src="https://clipground.com/images/bitbucket-logo-1.jpg" />][BitBucket]
 <br />
 
 ## Summary
