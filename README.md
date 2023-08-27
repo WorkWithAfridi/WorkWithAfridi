@@ -6,7 +6,7 @@
 - 💬 Ask me about Computers, Games, Consoles and/or Programming stuff, aka typical Tech-nerd.
 - 🔥 Youtube: [Kyoto](https://www.youtube.com/KyotoCodes)
 - 📫 Portfolio: [WorkWithAfridi](https://sites.google.com/view/workwithafridi)
-- 🔥 CV/ Resume: [CV/ Resume - Khondakar Afridi](https://drive.google.com/file/d/1_JH8HSnZilQDHNbi1Q7KrYNasCyq2mrx/view?usp=sharing)
+- 🔥 CV/ Resume: [CV/ Resume - Khondakar Afridi](https://drive.google.com/file/d/1TJ4lBka7qhvwhT3x0qmJv2T4kpbVdPo8/view?usp=sharing)
 - 😄 Pronouns: Him/He
 - 🔥 Nationality: Bangladeshi &&Pround
 - ⚡ Fun fact: I speak English, Bangla, Hindhi, Canadian French!
