@@ -1,9 +1,9 @@
 ## Hello World, I'm Khondakar Afridi - aka KYOTO. 👋
 
 - 🔭 I’m currently working as a Software Engineer | App Developer at Tikweb.
-- 🌱 I’m currently learning SwiftUI.
+- 🌱 I’m currently learning iOS Development with UiKit & SwiftUi.
 - 🤔 I’m also looking forward to collaborating on Open Source projects.
-- 💬 Ask me about Computers, Games, Consoles and/or Programming stuff, aka typical Tech-nerd.
+- 💬 Ask me about Computers, Games, Consoles &/or Programming stuff, aka typical Tech-nerd.
 - 🔥 Youtube: [Kyoto](https://www.youtube.com/KyotoCodes)
 - 📫 Portfolio: [WorkWithAfridi](https://sites.google.com/view/workwithafridi)
 - 🔥 CV/ Resume: [CV/ Resume - Khondakar Afridi](https://drive.google.com/file/d/1TJ4lBka7qhvwhT3x0qmJv2T4kpbVdPo8/view?usp=sharing)
@@ -13,7 +13,7 @@
 
 ## About me
 
-Experienced software engineer specializing in app development. Skilled in creating high-performance, scalable, & user-friendly applications for various industries. Strong technical background, self-motivated, & a team player. 
+Experienced software engineer specializing in App development. Skilled in creating high-performance, scalable, & user-friendly applications for various industries. Strong technical background, self-motivated, & a team player. 
 
 ## ☕ Connect with me!
 
