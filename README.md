@@ -4,8 +4,6 @@
 - 🌱 I’m currently learning iOS Development with UiKit & SwiftUi.
 - 🤔 I’m also looking forward to collaborating on Open Source projects.
 - 💬 Ask me about Computers, Games, Consoles &/or Programming stuff, aka typical Tech-nerd.
-- 🔥 Youtube: [Kyoto](https://www.youtube.com/KyotoCodes)
-- 📫 Portfolio: [WorkWithAfridi](https://sites.google.com/view/workwithafridi)
 - 🔥 CV/ Resume: [CV/ Resume - Khondakar Afridi](https://drive.google.com/file/d/1jcACbuSEBZs9XrJ4D9FehJhTyau38P7k/view?usp=sharing)
 - 😄 Pronouns: Him/He
 - 🔥 Nationality: Bangladeshi &&Pround
@@ -25,7 +23,6 @@ Experienced software engineer specializing in App development. Skilled in creati
 
 [website]: https://sites.google.com/view/workwithafridi
 [twitter]: https://twitter.com/KyotoBytes
-[youtube]: https://www.youtube.com/c/kyotobytes
 [instagram]: https://www.instagram.com/llkyoto/
 [linkedin]: https://www.linkedin.com/in/khondakarafridi/
 [facebook]: https://www.facebook.com/WorkWithAfridi/
