@@ -1,6 +1,6 @@
 ## Hello World, I'm Khondakar Afridi - aka KYOTO. 👋
 
-- 🔭 I’m currently working as a Software Engineer | App Developer at Tikweb.
+- 🔭 I’m currently working as a remote Software Engineer | App Developer | Flutter | iOS
 - 🌱 I’m currently learning iOS Development with UiKit & SwiftUi.
 - 🤔 I’m also looking forward to collaborating on Open Source projects.
 - 💬 Ask me about Computers, Games, Consoles &/or Programming stuff, aka typical Tech-nerd.
