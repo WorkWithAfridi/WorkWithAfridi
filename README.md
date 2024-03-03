@@ -13,7 +13,7 @@
 
 Experienced software engineer specializing in App development. Skilled in creating high-performance, scalable, & user-friendly applications for various industries. Strong technical background, self-motivated, & a team player. 
 
-## Read my articles at: [Medium](https://medium.com/@afridi.khondakar)
+## Read my articles/blogs on: [Medium](https://medium.com/@afridi.khondakar)
 
 ## ☕ Connect with me!
 
