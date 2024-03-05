@@ -8,14 +8,11 @@
 - 😄 Pronouns: Him/He
 - 🔥 Nationality: Bangladeshi &&Pround
 - ⚡ Fun fact: I speak English, Bangla, Hindhi, Canadian French!
+- Read my articles/blogs at: [Medium/Afridi.Khondakar](https://medium.com/@afridi.khondakar)
 
 ## About me
 
 Experienced software engineer specializing in App development. Skilled in creating high-performance, scalable, & user-friendly applications for various industries. Strong technical background, self-motivated, & a team player. 
-
-## Read my articles/blogs on: [Medium](https://medium.com/@afridi.khondakar)
-
-![](https://komarev.com/ghpvc/?username=workwithafridi&style=flat-square&color=blueviolet)
 
 ## ☕ Connect with me!
 
@@ -24,6 +21,10 @@ Experienced software engineer specializing in App development. Skilled in creati
 ## 📧 For Business Inquiries 
 
 ✅  ► afridi.khondakar@gmail.com
+
+## Level
+
+![](https://komarev.com/ghpvc/?username=workwithafridi&style=flat-square&color=blueviolet)
 
 [website]: https://sites.google.com/view/workwithafridi
 [twitter]: https://twitter.com/KyotoBytes
