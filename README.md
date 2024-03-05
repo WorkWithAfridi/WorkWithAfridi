@@ -15,7 +15,7 @@ Experienced software engineer specializing in App development. Skilled in creati
 
 ## Read my articles/blogs on: [Medium](https://medium.com/@afridi.khondakar)
 
-![](https://komarev.com/ghpvc/?username=workwithafridi&style=flat-square)
+![](https://komarev.com/ghpvc/?username=workwithafridi&style=flat-square&color=blueviolet)
 
 ## ☕ Connect with me!
 
