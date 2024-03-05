@@ -22,7 +22,7 @@ Experienced software engineer specializing in App development. Skilled in creati
 
 ✅  ► afridi.khondakar@gmail.com
 
-## Level
+## ^Power Level
 
 ![](https://komarev.com/ghpvc/?username=workwithafridi&style=flat-square&color=blueviolet)
 
