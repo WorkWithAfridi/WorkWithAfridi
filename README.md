@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning iOS Development with UiKit & SwiftUi.
 - 🤔 I’m also looking forward to collaborating on Open Source projects.
 - 💬 Ask me about Computers, Games, Consoles &/or Programming stuff, aka typical Tech-nerd.
-- 🔥 CV/ Resume: [CV/ Resume - Khondakar Afridi](https://drive.google.com/file/d/1jcACbuSEBZs9XrJ4D9FehJhTyau38P7k/view?usp=sharing)
+- 🔥 CV/ Resume: [CV/ Resume - Khondakar Afridi](https://docs.google.com/document/d/1ezAKII08F9hZxpHytor5EV1jKm7R6Ab1NHwMedEKIVY/edit?usp=sharing)
 - 😄 Pronouns: Him/He
 - 🔥 Nationality: Bangladeshi &&Pround
 - ⚡ Fun fact: I speak English, Bangla, Hindhi, Canadian French!
