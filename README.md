@@ -1,9 +1,9 @@
 ## 👋 Hello World, I’m Khondakar Afridi — aka **KYOTO**
 
-🚀 **Software Engineer | App Team Lead | Flutter & iOS (SwiftUI/UIKit)**
+🚀 **Senior Software Engineer | App Team Lead | Flutter Developer | iOS Engineer (SwiftUI)**
 🌍 Remote-first | 🇧🇩 Bangladeshi (proud)
 
-I’m a product-focused mobile engineer with **4+ years of experience** building **scalable, cloud-native apps** used by **millions of users**. I specialize in **Flutter** and **SwiftUI**, with strong experience bridging **native iOS/Android** into cross-platform systems, leading app teams, and shipping production-grade software.
+I’m a **Senior Software Engineer and Mobile App Developer** with **4+ years of professional experience** building **scalable, cloud-native Flutter and iOS applications** used by **millions of users worldwide**. I specialize in **Flutter development**, **iOS development with SwiftUI & UIKit**, and integrating **native Android/iOS codebases** into cross-platform systems, while leading teams and shipping **production-grade mobile software**.
 
 ---
 
@@ -51,11 +51,11 @@ Figma • Adobe XD • Agile • Scrum • Kanban
 
 ## 🏆 Highlights
 
-* 📈 Scaled apps to **1M+ users**
-* ☁️ Managed **200TB+ cloud storage** on GCP
-* 👥 Led and mentored **app teams**
-* 🧩 Built **reusable SDKs** & boilerplates
-* 🤖 Integrated **AI & LLM-powered chat avatars**
+* 📈 Scaled **Flutter & iOS apps** to **1M+ users**
+* ☁️ Managed **200TB+ cloud infrastructure** on **Google Cloud Platform (GCP)**
+* 👥 Led and mentored **remote mobile app teams**
+* 🧩 Built **reusable Flutter SDKs, packages & boilerplates**
+* 🤖 Integrated **AI & LLM-powered chatbots and virtual assistants**
 
 ---
 
@@ -94,6 +94,12 @@ Figma • Adobe XD • Agile • Scrum • Kanban
 * 🎮 Gamer & console enthusiast
 * 🧠 Tech-nerd by nature
 * 🧩 Loves clean architecture & scalable systems
+
+---
+
+## 🔍 Keywords
+
+Flutter Developer • iOS Developer • SwiftUI Engineer • UIKit Developer • Mobile App Developer • Software Engineer • App Team Lead • Firebase • Google Cloud Platform • CI/CD • Remote Software Engineer • Cross-Platform Mobile Development • App Store & Play Store Publishing
 
 ---
 
