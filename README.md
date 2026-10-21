@@ -79,7 +79,7 @@ Figma • Adobe XD • Agile • Scrum • Kanban
 ## 📄 Resume & Portfolio
 
 * 🔥 **CV / Resume:** [View Resume](https://docs.google.com/document/d/1ezAKII08F9hZxpHytor5EV1jKm7R6Ab1NHwMedEKIVY)
-* 🌐 **Website:** [https://sites.google.com/view/workwithafridi](https://sites.google.com/view/workwithafridi)
+* 🌐 **Website:** [https://workwith-afridi.web.app/](https://workwith-afridi.web.app/)
 
 ---
 
