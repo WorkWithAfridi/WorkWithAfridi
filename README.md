@@ -1,86 +1,160 @@
-<!-- Khondakar Afridi / WorkWithAfridi -->
+<!-- Khondakar Afridi • GitHub Profile README -->
 
 <div align="center">
 
-# Khondakar Afridi
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0F172A,55:312E81,100:0E7490&text=KHONDAKAR%20AFRIDI&fontColor=FFFFFF&fontSize=40&fontAlignY=37&desc=aka%20KYOTO%20%E2%80%A2%20BUILD%20%2F%20SCALE%20%2F%20SHIP&descSize=15&descAlignY=58&animation=fadeIn" alt="Khondakar Afridi — KYOTO" />
 
-**`aka KYOTO`**
+### Senior Flutter Developer · Software Engineer II · App Team Lead
 
-### Senior Flutter Developer · Software Engineer II · Mobile App Team Lead
+**I build mobile products for real people, at real scale.**
 
-Building mobile experiences that scale. Leading teams that ship.
+<img src="https://img.shields.io/badge/Dhaka%2C%20Bangladesh-0F172A?style=flat-square&logo=googlemaps&logoColor=white" alt="Dhaka, Bangladesh" />
+<img src="https://img.shields.io/badge/Open%20to%20Remote%20Roles-0F766E?style=flat-square&logo=internetexplorer&logoColor=white" alt="Open to remote roles" />
 
-[Portfolio](https://workwith-afridi.web.app/) · [LinkedIn](https://www.linkedin.com/in/khondakarafridi/) · [Resume](https://docs.google.com/document/d/1ezAKII08F9hZxpHytor5EV1jKm7R6Ab1NHwMedEKIVY) · [Email](mailto:afridi.khondakar@gmail.com)
+<br/><br/>
 
-<sub>Based in Dhaka, Bangladesh · Open to remote opportunities worldwide</sub>
+<a href="https://workwith-afridi.web.app/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/khondakarafridi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://docs.google.com/document/d/1ezAKII08F9hZxpHytor5EV1jKm7R6Ab1NHwMedEKIVY"><img src="https://img.shields.io/badge/Resume-374151?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume" /></a>
+<a href="mailto:afridi.khondakar@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
----
+<br/>
 
-### `> about_me`
+## `01 / whoami`
 
-I'm a software engineer with **5+ years of experience** designing, building, and scaling mobile applications with **Flutter, Dart, SwiftUI, and native Android/iOS integrations**.
+```dart
+class Afridi extends SoftwareEngineer {
+  final focus = ['Flutter', 'iOS', 'Scalable systems'];
+  final mindset = 'Build thoughtfully. Ship reliably.';
 
-My work spans consumer apps, media platforms, commerce, payments, and internal business tools. I care about architecture that stays maintainable, performance that users can feel, and products that make it into production—not just prototypes.
+  @override
+  String get currentRole => 'Software Engineer II · App Team Lead';
+}
+```
 
-Currently, I'm a **Software Engineer II / App Team Lead at Tikweb**, working across mobile architecture, engineering leadership, native SDK integrations, CI/CD, and release delivery.
+I'm a **mobile engineer with 5+ years of experience** building production-grade applications with **Flutter, Dart, SwiftUI, and native Android/iOS integrations**. My work includes consumer platforms, media infrastructure, payments, commerce, and business software.
 
-### `> impact`
+At **Tikweb**, I lead mobile engineering initiatives spanning architecture, performance, SDK integrations, code reviews, CI/CD, and app-store releases. I enjoy solving the difficult engineering problems that sit between polished interfaces and dependable systems.
 
-| **2M+** | **200TB+** | **1.5M+** |
-| :---: | :---: | :---: |
-| Users reached across products | Cloud media managed by systems I've worked on | Wedbox users |
+## `02 / impact`
 
-### `> selected_work`
+<div align="center">
 
-**[Immich TV](https://github.com/WorkWithAfridi/immich-tv)** — An open-source Android TV client for [Immich](https://immich.app/). Built for remote-first navigation, predictable D-pad focus, and smooth browsing across large photo libraries. [Website ↗](https://immichtvapp.web.app/)
+| **2M+** | **1.5M+** | **200 TB+** |
+|:---:|:---:|:---:|
+| Users reached across products | Wedbox users | Media handled by cloud-backed systems |
 
-**Wedbox** — Helped scale a media-heavy Flutter/iOS app to **1.5M+ users**, with offline-first caching, resilient background uploads, and cloud-backed photo delivery.
+</div>
 
-**Tikweb POS / MUSEIQ** — Integrated **PAX payment terminals**, native Android SDKs, card and wallet payments, and hardware-dependent checkout flows.
+## `03 / selected_work`
 
-**Wedsly Planner / Bröllopsguiden** — Built and maintained collaborative planning experiences with real-time messaging, guest management, subscriptions, and Firebase services.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Tikweb Admin** — Developed a shared Flutter ERP/inventory experience across **Android, iOS, macOS, and Windows**.
+### 📺 [Immich TV](https://github.com/WorkWithAfridi/immich-tv)
+**Open source · Android TV**
 
-### `> open_source`
+A TV-first client for Immich with D-pad navigation, predictable focus management, and optimized browsing for large photo libraries.
 
-I publish Flutter packages and developer tools, and enjoy improving the small pieces of infrastructure other engineers rely on.
+[Project site](https://immichtvapp.web.app/) · [Source](https://github.com/WorkWithAfridi/immich-tv)
 
-- **[google_drive_picker](https://pub.dev/packages/google_drive_picker)** — Google Drive file picking for Flutter.
-- **[ip_country_lookup](https://pub.dev/packages/ip_country_lookup)** — IP geolocation utilities with fallback providers.
-- **[flutter_animated_intro](https://pub.dev/packages/flutter_animated_intro)** — Animated onboarding and intro experiences.
-- **[flutter_color_wheel_picker](https://pub.dev/packages/flutter_color_wheel_picker)** — Reusable color selection UI.
+</td>
+<td width="50%" valign="top">
 
-[Explore all repositories ↗](https://github.com/WorkWithAfridi?tab=repositories)
+### ☁️ Wedbox
+**Flutter · iOS · Firebase · GCP**
 
-### `> toolkit`
+Helped scale a photo and event-media platform to **1.5M+ users**, with offline-first caching, resilient background uploads, and smooth media delivery.
 
-| Area | Technologies & practices |
-| --- | --- |
-| **Mobile** | Flutter, Dart, Swift, SwiftUI, UIKit, native SDKs, platform channels |
-| **Architecture** | Clean Architecture, MVVM, BLoC/Cubit, dependency injection, offline-first systems |
-| **Backend & cloud** | Firebase, Google Cloud Platform, Node.js, Express, PostgreSQL, REST, GraphQL |
-| **Real-time & payments** | WebSockets, WebRTC, RevenueCat, Apple Pay, Google Pay, PAX terminals |
-| **Delivery** | Git, CI/CD, Fastlane, Patrol, Crashlytics, App Store Connect, Google Play Console |
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### `> currently_exploring`
+### 💳 Tikweb POS / MUSEIQ
+**Flutter · Android SDKs · PAX**
 
-Advanced Flutter performance and architecture · SwiftUI/UIKit interoperability · AI/LLM-powered product features · Self-hosted software
+Integrated PAX terminals, native hardware workflows, and card/wallet payments in production point-of-sale applications.
+
+</td>
+<td width="50%" valign="top">
+
+### 📱 Wedsly / Bröllopsguiden
+**Flutter · Firebase · RevenueCat**
+
+Built collaborative planning features including real-time chat, guest management, subscriptions, and shared workflows.
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>More things I've built</b></summary>
+<br/>
+
+- **Tikweb Admin:** Flutter ERP and inventory tools spanning Android, iOS, macOS, and Windows.
+- **GinzaXiaoma:** Luxury commerce app with native integrations and AI-powered customer experiences.
+- **Chalo Sesame Street:** Educational video, gamification, and engagement features across mobile and web.
+- **AI-powered experiences:** RAG-based assistants, customer-support workflows, and reusable communications SDKs.
+
+</details>
+
+## `04 / stack`
+
+<div align="center">
+
+**Mobile & application engineering**
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,swift,kotlin,androidstudio,apple&theme=dark" alt="Flutter, Dart, Swift, Kotlin, Android Studio, Apple" />
+
+**Backend, cloud & tooling**
+
+<img src="https://skillicons.dev/icons?i=firebase,gcp,nodejs,express,postgres,docker,githubactions,git&theme=dark" alt="Firebase, Google Cloud, Node.js, Express, PostgreSQL, Docker, GitHub Actions, Git" />
+
+</div>
+
+**Architecture:** Clean Architecture · MVVM · BLoC/Cubit · Dependency Injection · Offline-first
+
+**Specialties:** Native SDK integration · WebSockets/WebRTC · RevenueCat · Payment terminals · CI/CD · Fastlane
+
+## `05 / open_source`
+
+I build and maintain packages that make everyday development a little easier.
+
+| Project | What it does |
+|:--|:--|
+| **[google_drive_picker](https://pub.dev/packages/google_drive_picker)** | Google Drive file picking for Flutter |
+| **[ip_country_lookup](https://pub.dev/packages/ip_country_lookup)** | IP-to-country lookup with provider fallback |
+| **[flutter_animated_intro](https://pub.dev/packages/flutter_animated_intro)** | Animated intro and onboarding experiences |
+| **[flutter_color_wheel_picker](https://pub.dev/packages/flutter_color_wheel_picker)** | Reusable color-wheel UI |
+
+[**Browse my repositories →**](https://github.com/WorkWithAfridi?tab=repositories)
+
+## `06 / currently_into`
+
+`Mobile architecture` · `Flutter performance` · `SwiftUI / UIKit` · `Local AI & LLMs` · `Self-hosting`
 
 ---
 
 <div align="center">
 
-**Have an interesting mobile problem to solve?**
+### Have a challenging mobile problem in mind?
 
-[Let's connect on LinkedIn](https://www.linkedin.com/in/khondakarafridi/) · [Get in touch](mailto:afridi.khondakar@gmail.com)
+**Let's build something worth shipping.**
 
-<sub>“Build things that scale. Lead with clarity. Ship with purpose.”</sub>
+[Portfolio](https://workwith-afridi.web.app/) · [LinkedIn](https://www.linkedin.com/in/khondakarafridi/) · [Medium](https://medium.com/@afridi.khondakar) · [Email](mailto:afridi.khondakar@gmail.com)
 
-<br>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=WorkWithAfridi&style=flat-square&color=6b7280&label=profile+views" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=WorkWithAfridi&style=flat-square&color=6366f1&label=profile+views" alt="Profile views" />
+
+<br/>
+
+<sub>Build things that scale. Lead with clarity. Ship with purpose.</sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0F172A,55:312E81,100:0E7490" alt="" />
 
 </div>
